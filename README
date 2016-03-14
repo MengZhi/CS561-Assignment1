@@ -1,0 +1,6 @@
+******************************README***********************************
+ 
+ Step 1: Before run the program in JDK, download and add postgresql-9.4-1203.jdbc4.jar to the referenced libraries.
+ Step 2: Also start the pgAdmin to guarentee it can obtain table from the database.
+ Step 3: In the program below, modify the user name and password to access the database
+ Step 4: Then run the java program to output the results.
